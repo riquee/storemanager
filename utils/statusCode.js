@@ -1,0 +1,7 @@
+module.exports = {
+  INVALID_DATE: 422,
+  INTERNAL_ERROR: 500,
+  SUCCESS: 200,
+  CREATED: 201,
+  NOT_FOUND: 404,
+};
